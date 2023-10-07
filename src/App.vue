@@ -1,5 +1,5 @@
 <script lang="ts" setup>
-import ItemList from "./components/ItemList.vue";
+import ItemList from "./components/items/ItemList.vue";
 import { ItemInterface } from "./models/items";
 import { reactive } from "vue";
 
